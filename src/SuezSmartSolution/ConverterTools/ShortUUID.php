@@ -22,7 +22,7 @@ namespace SuezSmartSolution\ConverterTools;
 
 
 /**
- * based and convert from 'short-uuid' javascript library (https://www.npmjs.com/package/short-uuid).
+ * based and converted from 'short-uuid' javascript library (https://www.npmjs.com/package/short-uuid).
  * @see https://github.com/oculus42/short-uuid/blob/bdd83c4a6cae19387796ec1e8fdf36129b819b50/index.js
  */
 class ShortUUID

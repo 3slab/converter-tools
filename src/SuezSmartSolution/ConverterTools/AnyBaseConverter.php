@@ -21,7 +21,7 @@
 namespace SuezSmartSolution\ConverterTools;
 
 /**
- * based and convert from 'any-base' javascript library (https://www.npmjs.com/package/any-base).
+ * based and converted from 'any-base' javascript library (https://www.npmjs.com/package/any-base).
  * @see https://github.com/HarasimowiczKamil/any-base/blob/7595a7398959618a93cb4edef0bae3e035eb3ce0/index.js
  */
 class AnyBaseConverter implements ConverterInterface
