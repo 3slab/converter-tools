@@ -1,0 +1,17 @@
+{
+    "name": "3slab/converter-tools",
+    "description": "converter tools for project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Lecarpentier (for Suez)",
+            "email": "thomas.lecarpentier@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"SuezSmartSolution\\ConvertTools\\": "src/"}
+    },
+    "require": {}
+}
